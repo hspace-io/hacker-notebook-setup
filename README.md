@@ -76,6 +76,7 @@ L | [LINUX](https://github.com/hspace-io/hacker-notebook-setup/tree/main/LINUX) 
 | 포렌식             | FTK Imager       | 파일 시스템 분석 도구                      |W | W
 | 포렌식             | NTFS Log Tracker | NTFS 파일 시스템 저널 분석 도구             |W
 | 포렌식             | REGA             | 레지스트리 분석 도구.                      |W | W
+| 포렌식             | ExifTool             | 메타데이터 분석 도구.                      |M W L |
 | 블럭체인            | Foundry | 스마트 컨트랙트 개발 및 테스트 도구                                    | M W L  | L
 
 

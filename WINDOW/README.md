@@ -49,6 +49,7 @@
 | 포렌식             | [FTK Imager](https://github.com/hspace-io/hacker-notebook-setup/blob/main/WINDOW/Forensic/FTK%20Imager.md)       | 파일 시스템 분석 도구                      |✅
 | 포렌식             | [NTFS Log Tracker](https://github.com/hspace-io/hacker-notebook-setup/blob/main/WINDOW/Forensic/NTFS%20Log%20Tracker.md) | NTFS 파일 시스템 저널 분석 도구             |
 | 포렌식             | [REGA](https://github.com/hspace-io/hacker-notebook-setup/tree/main/WINDOW/Forensic/REGA.md)     | 레지스트리 분석 도구.                      |✅
+| 포렌식             | ExifTool.md       | 메타데이터 분석 도구.                         |
 | 블럭체인            | Foundry | 스마트 컨트랙트 개발 및 테스트 도구                  |
 
 

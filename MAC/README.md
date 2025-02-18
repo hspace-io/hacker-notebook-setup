@@ -56,6 +56,7 @@
 | 리버스 엔지니어링    | z3               | SMT 솔버	                         |  
 | 포렌식             | [Autopsy](https://github.com/hspace-io/hacker-notebook-setup/tree/main/MAC/Forensic/Autopsy.md)          | 파일 시스템 분석 도구.                     |
 | 포렌식             | [Volatility](https://github.com/hspace-io/hacker-notebook-setup/tree/main/MAC/Forensic/Volatility.md)       | 메모리 분석 도구.                         |
+| 포렌식             | ExifTool.md       | 메타데이터 분석 도구.                         |
 | 블럭체인            | [Foundry](https://github.com/hspace-io/hacker-notebook-setup/tree/main/MAC/Blockchain/foundry.md) | 스마트 컨트랙트 개발 및 테스트 도구                                    | 
 ---
 ## 분야별 주의 사항
